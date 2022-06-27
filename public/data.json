@@ -1,54 +1,7 @@
 {
-  "range": "'スポットデータ'!A1:J84",
-  "majorDimension": "ROWS",
-  "values": [
-    [
-      "タイムスタンプ",
-      "カテゴリ",
-      "画像",
-      "緯度",
-      "経度",
-      "スポット名",
-      "紹介文",
-      "Instagram",
-      "Twitter",
-      "公式サイト"
-    ],
-    [
-      "2022/05/11 14:46:34",
-      "オフィス",
-      "https://geolonia.github.io/logo/geolonia-logo_b2.jpg",
-      "35.730091",
-      "139.73754",
-      "株式会社Geolonia",
-      "株式会社Geoloniaの東京オフィスです",
-      "",
-      "geoloniamap",
-      "https://geolonia.com"
-    ],
-    [
-      "",
-      "ホテル",
-      "",
-      "33.596548",
-      "130.425222",
-      "グランドベース博多空港通"
-    ],
-    [
-      "",
-      "ホテル",
-      "",
-      "33.59688",
-      "130.411825",
-      "グランドベース祇園"
-    ],
-    [
-      "",
-      "ホテル",
-      "",
-      "33.579923",
-      "130.424997",
-      "レジデンスホテル博多10/Residence Hotel Hakata 10"
-    ]
-  ]
+  "error": {
+    "code": 503,
+    "message": "The service is currently unavailable.",
+    "status": "UNAVAILABLE"
+  }
 }
